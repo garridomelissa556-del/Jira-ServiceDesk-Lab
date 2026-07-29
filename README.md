@@ -41,4 +41,4 @@ This repository contains a full-featured L1/L2 IT Help Desk and E-Commerce Suppo
 
 ## 📸 Documentation & Evidence
 All workflow screenshots and detailed incident logs are available in the repository PDF document:
-* **[View Full PDF Report]([./Jira_Service_Management_Lab_Melissa_2.pdf](https://drive.google.com/file/d/1mB3-zvEFiPadJy61kMaJZ5SjcQx2T6Nw/view?usp=sharing))**
+* **[View Full PDF Report][./Jira_Service_Management_Lab_Melissa_2.pdf](https://drive.google.com/file/d/1mB3-zvEFiPadJy61kMaJZ5SjcQx2T6Nw/view?usp=sharing)**
